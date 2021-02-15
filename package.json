@@ -1,0 +1,22 @@
+{
+  "name": "reservaciones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rola342/Reservaciones.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rola342/Reservaciones/issues"
+  },
+  "homepage": "https://github.com/Rola342/Reservaciones#readme",
+  "dependencies": {
+    "googleapis": "^67.0.0"
+  }
+}
